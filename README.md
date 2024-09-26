@@ -1,4 +1,7 @@
-## Hi there 👋
+## Lab25A
+
+Salve a tutti, questo è l'account ufficiale del Laboratorio 25A.
+Questo account è adibito allo storage di attività, eventi ed appunti riguardanti il CdL di Informatica Triennale/Magistrale dell'Università di Roma Tor Vergata. 
 
 <!--
 **Lab25A-CS/Lab25A-CS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

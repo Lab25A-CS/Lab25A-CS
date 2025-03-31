@@ -6,7 +6,7 @@ Questo account è adibito allo storage di attività, eventi ed appunti riguardan
 
 - 🔭 I’m currently working on Repo
 - 🌱 I’m currently learning CS
-- 👯 I’m looking to collaborate on whoever
+- 👯 I’m looking to collaborate on whatever
 - 🤔 I’m looking for help with life
 - 💬 Ask me about nothing
 - 📫 How to reach me: you don't
